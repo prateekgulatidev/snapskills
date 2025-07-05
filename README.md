@@ -89,9 +89,9 @@ The Course Builder interface is accessible through the web frontend at a specifi
 ## Repositories
 
 * **Backend API:** `/snapskills-backend`
-* **Web Frontend:** `/snapskills-web`
-* **Android App:** `/snapskills-android`
-* **iOS App:** `/snapskills-ios`
+* **Web Frontend:** `/snapskills/web`
+* **Android App:** `/snapskills/android`
+* **iOS App:** `/snapskills/ios`
 * **Documentation:** `/snapskills-docs`
 
 ##  Contributing
