@@ -1,1 +1,3 @@
 rootProject.name = 'snapskills-backend'
+
+include 'User-Service'
